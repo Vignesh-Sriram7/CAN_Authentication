@@ -1,0 +1,5 @@
+../Core/Src/hmac.c:45:13:rekey	32	static
+../Core/Src/hmac.c:60:5:tc_hmac_set_key	328	static
+../Core/Src/hmac.c:103:5:tc_hmac_init	16	static
+../Core/Src/hmac.c:117:5:tc_hmac_update	24	static
+../Core/Src/hmac.c:132:5:tc_hmac_final	24	static

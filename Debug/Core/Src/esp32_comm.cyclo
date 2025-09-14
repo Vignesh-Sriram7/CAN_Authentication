@@ -1,0 +1,3 @@
+../Core/Src/esp32_comm.c:12:6:esp32_comm_init	1
+../Core/Src/esp32_comm.c:18:6:HAL_UART_RxCpltCallback	3
+../Core/Src/esp32_comm.c:31:5:receive_message_from_esp32	4

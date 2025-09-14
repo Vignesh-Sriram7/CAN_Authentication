@@ -1,0 +1,6 @@
+../Core/Src/sha256.c:47:5:tc_sha256_init	2
+../Core/Src/sha256.c:73:5:tc_sha256_update	6
+../Core/Src/sha256.c:95:5:tc_sha256_final	5
+../Core/Src/sha256.c:165:28:ROTR	1
+../Core/Src/sha256.c:178:28:BigEndian	1
+../Core/Src/sha256.c:189:13:compress	3
