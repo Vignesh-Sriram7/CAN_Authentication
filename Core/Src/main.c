@@ -23,7 +23,10 @@
 /* USER CODE BEGIN Includes */
 #include "esp32_comm.h"
 #include "auth.h"
+<<<<<<< HEAD
 #include "string.h"
+=======
+>>>>>>> 74ffe1062a43a8417f3178ba4e2b62d937cdaebe
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -61,7 +64,11 @@ static void MX_USART3_UART_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+<<<<<<< HEAD
 
+=======
+esp32_comm_init();
+>>>>>>> 74ffe1062a43a8417f3178ba4e2b62d937cdaebe
 /* USER CODE END 0 */
 
 /**
@@ -96,7 +103,11 @@ int main(void)
   MX_CAN_Init();
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
+<<<<<<< HEAD
   esp32_comm_init();
+=======
+
+>>>>>>> 74ffe1062a43a8417f3178ba4e2b62d937cdaebe
   /* USER CODE END 2 */
 
   /* Infinite loop */

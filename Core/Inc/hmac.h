@@ -63,7 +63,11 @@
 #ifndef __TC_HMAC_H__
 #define __TC_HMAC_H__
 
+<<<<<<< HEAD
 #include <sha256.h>
+=======
+#include <tinycrypt/sha256.h>
+>>>>>>> 74ffe1062a43a8417f3178ba4e2b62d937cdaebe
 
 #ifdef __cplusplus
 extern "C" {
